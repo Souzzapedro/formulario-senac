@@ -24,7 +24,7 @@ input[type="number"] {
 }
 
 body {
-    background-image: url('images/fundo.png');
+    background-image: url('../images/fundo.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
